@@ -1,0 +1,18 @@
+
+button{
+    width: 180px;
+    border-radius: 5px;
+}
+label,h2,input,button{
+    margin-left: 27px;
+}
+
+.main{
+    display: flex;
+}
+
+.right-div{
+    margin-left: 150px;
+}
+
+
